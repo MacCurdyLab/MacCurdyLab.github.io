@@ -1,0 +1,43 @@
+/* Add this to your CSS file */
+.navbar {
+    background-color: #808080; /* Grey color */
+    transition: height 0.3s, padding 0.3s;
+  }
+  
+  .navbar-logo {
+    height: 50px; /* Initial height */
+    transition: height 0.3s;
+  }
+  
+  .navbar-logo.icon-logo {
+    display: none; /* Hide icon logo initially */
+  }
+  
+  .navbar.scrolled {
+    height: 50px; /* Reduced height */
+    padding: 5px 0;
+  }
+  
+  .navbar.scrolled .full-logo {
+    display: none; /* Hide full logo when scrolled */
+  }
+  
+  .navbar.scrolled .icon-logo {
+    display: inline; /* Show icon logo when scrolled */
+    height: 30px; /* Adjust icon logo height */
+  }
+  
+  .navbar-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 1rem;
+    padding: 10px 15px;
+  }
+  
+  .navbar-nav .nav-item .nav-link i {
+    font-size: 1.2rem;
+    margin-left: 5px;
+  }
