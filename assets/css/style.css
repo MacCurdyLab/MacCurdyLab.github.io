@@ -42,13 +42,27 @@
     margin-left: 5px;
   }
 
-  /* Custom styles for the carousel */
+/* Custom styles for the carousel */
 .carousel {
-    max-width: 800px; /* Set the maximum width */
+    max-width: 100%; /* Set the maximum width to 100% of the container */
     margin: 0 auto; /* Center the carousel */
   }
   
   .carousel-inner img {
+    width: 100%; /* Ensure the images take up the full width of the carousel */
     max-height: 400px; /* Set the maximum height */
     object-fit: cover; /* Ensure the images cover the area */
+  }
+
+  /* Custom styles for the title and subtitle */
+.page-title {
+    text-align: center;
+    font-size: 3rem; /* Large font size for the title */
+    margin-bottom: 0.5rem; /* Space between title and subtitle */
+  }
+  
+  .page-subtitle {
+    text-align: center;
+    font-size: 1.25rem; /* Smaller font size for the subtitle */
+    margin-bottom: 2rem; /* Space between subtitle and carousel */
   }
