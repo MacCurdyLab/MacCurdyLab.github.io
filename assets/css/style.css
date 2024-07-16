@@ -41,3 +41,14 @@
     font-size: 1.2rem;
     margin-left: 5px;
   }
+
+  /* Custom styles for the carousel */
+.carousel {
+    max-width: 800px; /* Set the maximum width */
+    margin: 0 auto; /* Center the carousel */
+  }
+  
+  .carousel-inner img {
+    max-height: 400px; /* Set the maximum height */
+    object-fit: cover; /* Ensure the images cover the area */
+  }
