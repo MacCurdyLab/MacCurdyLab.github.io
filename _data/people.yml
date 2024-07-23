@@ -1,0 +1,54 @@
+- name: John Doe
+  position: Professor
+  image: 1.jpg
+  description: John Doe is a professor of mechanical engineering with a focus on robotics and automation.
+
+- name: Jane Smith
+  position: Associate Professor
+  image: 2.jpg
+  description: Jane Smith specializes in multimaterial fabrication and has published numerous papers on the subject.
+
+- name: Alice Johnson
+  position: Assistant Professor
+  image: 3.jpg
+  description: Alice Johnson's research interests include numerical simulation and soft actuator synthesis.
+
+- name: Bob Brown
+  position: Research Scientist
+  image: 4.jpg
+  description: Bob Brown works on 3D printable materials and biotracking technologies.
+
+- name: Carol White
+  position: Postdoctoral Fellow
+  image: 5.jpg
+  description: Carol White's research focuses on microfluidics and presurgical planning models.
+
+- name: David Green
+  position: PhD Student
+  image: 6.jpg
+  description: David Green is a PhD student working on design automation for multimaterial fabrication.
+
+- name: Emma Black
+  position: PhD Student
+  image: 7.jpg
+  description: Emma Black's research involves the development and testing of 3D-printable materials.
+
+- name: Frank Blue
+  position: PhD Student
+  image: 8.jpg
+  description: Frank Blue is investigating new methods for fabrication automation and control software.
+
+- name: Grace Yellow
+  position: PhD Student
+  image: 9.jpg
+  description: Grace Yellow's work includes numerical simulation and the development of soft actuators.
+
+- name: Henry Red
+  position: PhD Student
+  image: 10.jpg
+  description: Henry Red is focused on biotracking and microfluidics technologies.
+
+- name: Ivy Purple
+  position: PhD Student
+  image: 11.jpg
+  description: Ivy Purple's research includes presurgical planning models and other related fields.
