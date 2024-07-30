@@ -26,7 +26,7 @@ Hi everyone, thanks for your interest in the Matter Assembly Computation Lab! Ou
       </a>
     </div>
     <div class="col-md-4 mb-4">
-      <a href="/_pages/design-automation.md" class="card">
+      <a href="/design-automation" class="card">
         <img src="/assets/img/10.jpg" class="card-img-top" alt="Design Automation">
         <div class="card-body">
           <h5 class="card-title">Design Automation</h5>
