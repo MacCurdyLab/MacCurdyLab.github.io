@@ -34,7 +34,7 @@ Hi everyone, thanks for your interest in the Matter Assembly Computation Lab! Ou
       </a>
     </div>
     <div class="col-md-4 mb-4">
-      <a href="/_pages/numerical-simulation.md" class="card">
+      <a href="/numerical-simulation" class="card">
         <img src="/assets/img/3.jpg" class="card-img-top" alt="Numerical Simulation">
         <div class="card-body">
           <h5 class="card-title">Numerical Simulation</h5>
@@ -42,7 +42,7 @@ Hi everyone, thanks for your interest in the Matter Assembly Computation Lab! Ou
       </a>
     </div>
     <div class="col-md-4 mb-4">
-      <a href="/_pages/soft-actuator-synthesis.md" class="card">
+      <a href="/soft-actuator-synthesis" class="card">
         <img src="/assets/img/4.jpg" class="card-img-top" alt="Soft Actuator Synthesis">
         <div class="card-body">
           <h5 class="card-title">Soft Actuator Synthesis</h5>
@@ -50,7 +50,7 @@ Hi everyone, thanks for your interest in the Matter Assembly Computation Lab! Ou
       </a>
     </div>
     <div class="col-md-4 mb-4">
-      <a href="/_pages/3d-printable-materials.md" class="card">
+      <a href="/3d-printable-materials" class="card">
           <img src="/assets/img/5.jpg" class="card-img-top" alt="3D Printable Materials">
         <div class="card-body">
           <h5 class="card-title">3D Printable Materials</h5>
@@ -58,7 +58,7 @@ Hi everyone, thanks for your interest in the Matter Assembly Computation Lab! Ou
       </a>
     </div>
     <div class="col-md-4 mb-4">
-      <a href="/_pages/biotracking.md" class="card">
+      <a href="/biotracking" class="card">
         <img src="/assets/img/6.jpg" class="card-img-top" alt="Biotracking">
         <div class="card-body">
           <h5 class="card-title">Biotracking</h5>
@@ -66,7 +66,7 @@ Hi everyone, thanks for your interest in the Matter Assembly Computation Lab! Ou
       </a>
     </div>
     <div class="col-md-4 mb-4">
-      <a href="/_pages/microfluidics.md" class="card">
+      <a href="/microfluidics" class="card">
         <img src="/assets/img/7.jpg" class="card-img-top" alt="Microfluidics">
         <div class="card-body">
           <h5 class="card-title">Microfluidics</h5>
@@ -74,7 +74,7 @@ Hi everyone, thanks for your interest in the Matter Assembly Computation Lab! Ou
       </a>
     </div>
     <div class="col-md-4 mb-4">
-        <a href="/_pages/presurgical-planning-models.md" class="card">
+        <a href="/presurgical-planning-models" class="card">
         <img src="/assets/img/8.jpg" class="card-img-top" alt="Presurgical Planning Models">
         <div class="card-body">
           <h5 class="card-title">Presurgical Planning Models</h5>
@@ -82,7 +82,7 @@ Hi everyone, thanks for your interest in the Matter Assembly Computation Lab! Ou
       </a>
     </div>
     <div class="col-md-4 mb-4">
-        <a href="/_pages/other.md" class="card">
+        <a href="/other" class="card">
           <img src="/assets/img/9.jpg" class="card-img-top" alt="Other">
         <div class="card-body">
           <h5 class="card-title">Other</h5>
