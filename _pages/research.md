@@ -18,7 +18,7 @@ Hi everyone, thanks for your interest in the Matter Assembly Computation Lab! Ou
 <div class="container mt-5">
   <div class="row">
     <div class="col-md-4 mb-4">
-      <a href="/_pages/fabrication-automation" class="card">
+      <a href="/fabrication-automation" class="card">
         <img src="/assets/img/1.jpg" class="card-img-top" alt="Fabrication Automation">
         <div class="card-body">
           <h5 class="card-title">Fabrication Automation</h5>

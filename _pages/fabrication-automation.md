@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fabrication Automation
-permalink: /_pages/fabrication-automation
+permalink: /fabrication-automation
 subtitle: 
 
 news: true # includes a list of news items
