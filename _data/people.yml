@@ -1,67 +1,67 @@
 - name: Robert MacCurdy
   position: Assistant Professor
-  image: 1.jpg
+  image: c1.jpg
   description: Robert MacCurdy is an assistant professor in Mechanical Engineering at the University of Colorado Boulder where he leads the Matter Assembly Computation Lab (MACLab). He is developing new tools to automatically design and manufacture robots, and automated methods to study animal behavior in the wild. Rob did his PhD work with Hod Lipson at Cornell University and his postdoctoral work at MIT with Daniela Rus. Funded by an NSF Graduate Research Fellowship and a Liebmann Fund fellowship, his doctoral work demonstrated systems capable of automatically assembling functional electromechanical devices, with the goal of printing robots that literally walk out of the printer. During this time he also showed how to create very low-cost, low power, and low-mass radiofrequency tags, and developed an automated tracking system based on time-of-flight measurements. He holds a B.A. in Physics from Ithaca College, a B.S. in Electrical Engineering from Cornell University, and an M.S. and PhD in Mechanical Engineering from Cornell University.
 
 
 - name: Lawrence Smith
   position: PhD Student
-  image: 2.jpg
+  image: c2.jpg
   description: Lawrence is a PhD student working on automated design of soft robots. He builds finite element and material point method models of continuum mechanics problems. He earned a B.S. in Mechanical Engineering from Cal Poly San Luis Obispo in 2014 and a M.S. in Mechanical Engineering from University of Colorado Boulder in 2019. In the interim period Lawrence worked at an engineering consulting firm designing numerical models to predict medical device performance. In his free time Lawrence enjoys running, frisbee golf, and playing 8-ball pool.
 
 
 
 - name: Brandon Hayes
   position: PhD Student
-  image: 3.jpg
+  image: c3.jpg
   description: Brandon received a double major in biomedical engineering and microelectronics engineering from Rochester Institute of Technology. There, his interests centered around microfluidics and multi-physics processes. After a few internships out west in Oregon, Brandon decided to head out to Colorado for grad school as well as the mountains. Brandon’s research focus is on combining additive manufacturing with microfluidics as well as understanding and applications of thermal bubble-driven micro-pumps for microfluidics. In his free time, Brandon can likely be found swimming, hiking, exploring, and biking around in the nearby mountains (with Flagstaff being his current favorite for a quick evening ride)
 
 
 
 - name: Vidyacharan G. Venkata
   position: PhD Student
-  image: 4.jpg
+  image: c4.jpg
   description: Vidyacharan (VC) is a PhD student developing new materials for manufacturing soft robots and devices through multi-material inkjet printing. He works at the intersection of materials science and robotics to push machines towards the next stage of their evolution. He earned his M.S in Mechanical Engineering from CU Boulder in 2018 during which he co-authored multiple papers on HASEL soft actuators. Prior to that, he worked as a researcher at the University of Tennessee, Knoxville, on developing flexible electrochemical sensors for toxic gas detection. He earned his B.Tech in Mechatronics in 2016 from SASTRA University, India.
 
 
 
 - name: Rachel Billings
   position: PhD Student
-  image: 5.jpg
+  image: c5.jpg
   description: Rachel is a first year PhD student in the ECEE department and IQ Biology Program. She is interested in developing hardware and software systems for environmental conservation and ecological research purposes, with emphasis on wildlife tracking. She received her B.S. from the University of Florida and her M.S. from Virginia Tech, both in electrical engineering. Outside of work, Rachel likes hanging out with her dog Luna, running, backpacking, and baking.
 
 
 - name: Celesse Myles
   position: PhD Student
-  image: 6.jpg
+  image: c6.png
   description: Celesse is a first year PhD student interested in the mobility of soft robotics. She is currently working as a research assistant. Her current work is focused on fabricating and testing soft actuators in an effort to standardize the testing process used to characterize various types of soft actuators. Celesse earned her B.S in Mechanical Engineering at CU Denver in 2022 while working remotely as a NASA Pathways intern at the Goddard Space Flight Center in Maryland from 2020 to 2022. Celesse loves basketball and is a huge Kansas City Chiefs fan. She has completed two full marathons and completed a 50 mile ultramarathon in April 2022.
 
 
 - name: Charles Wade
   position: PhD Student
-  image: 7.jpg
+  image: c7.png
   description: Charles works at the intersection of design, fabrication, and automation. Particularly, he is interested in developing novel methods that leverage additive manufacturing technology to automatically construct robotic systems. His current work focuses on a volumetric modeling framework for the design and verification of multi-material 3D-printed robots. Charles earned his B.S. in Computer Science & Engineering from the University of Toledo in 2021. Before starting a PhD at CU, he was a research scientist at Oak Ridge National Laboratory’s Manufacturing Demonstration Facility. There, he developed software and controls for large-scale 3D-printing systems. In his free time Charles likes hiking, backpacking, and fly fishing. You can often find him wading the nearby mountain streams in search of trout.
 
 
 - name: Subhraneel Sarkar
   position: Master's Student
-  image: 8.jpg
+  image: c8.jpg
   description: Subhraneel is a Mechanical Engineering Masters student interested in fabrication and FE analysis of soft actuators. He is currently writing his thesis on print-in-place pneumatic position sensing actuators. He completed his Bachelors in Mechanical Engineering from Vellore Institute of Technology, India in 2020. He has also been a part of Colorado Space Grant Consortium (CSGC GLEE team) and developed components for LunaSats-II for efficient deployment on Lunar Surface. He also has a passion for soccer and played for the CU Men's Clubs in 2021.
 
 
 - name: James Phillips
   position: Master's Student
-  image: 9.jpg
+  image: c9.png
   description: James has a background in electrical engineering and embedded systems. His research in Maclab is focused on the RF Biotracking Project. He is currently writing his thesis for his Master's degree in Technology, Cybersecurity, and Policy. In his spare time, James snowboards, runs, travels, and climbs an occasional 14er. 
 
 
 - name: Graham Williams
   position: Incoming PhD Student
-  image: 10.jpg
+  image: c10.png
   description: Graham is an incoming PhD student to CU Boulder. He is interested in the sim-to-real pipeline and its applications in augmenting the engineering design process. Through the use of multi-material additive manufacturing processes and computational design tools, he strives to reimagine the current paradigm which is tailored towards subtractive processes. By utilzing an algorithmic approach to the discovery and spatial distribution of novel materials, as well as the optimization of geomtries, Graham aims to change the fabric of modern design thinking.
 
 
 - name: Colin Smith
   position: Master's Student
-  image: 11.jpg
+  image: c11.jpg
   description: Colin Smith is a Mechanical Engineering MS student with a concentration in Robotics at the University of Colorado Boulder and an alum of California Polytechnic State University with a BS in Mechanical Engineering. Colin’s research focuses on mechanical design automation through the use of evolutionary algorithms and optimization techniques with applications in multi-material 3D printed soft robots. Colin’s other research activities center around the application of mechanical design and simulation, electronics design, and embedded systems software development in the pursuit of advancing soft robotics technology.

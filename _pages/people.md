@@ -17,7 +17,7 @@ nav_order: 7
   <div class="carousel-inner">
     {% for i in (1..4) %}
       <div class="carousel-item {% if forloop.first %}active{% endif %}">
-        <img src="/assets/img/carousel/{{ i }}.jpg" class="d-block w-100" alt="Image {{ i }}">
+        <img src="/assets/img/people/carousel/{{ i }}.jpg" class="d-block w-100" alt="Image {{ i }}">
       </div>
     {% endfor %}
   </div>
@@ -36,7 +36,7 @@ nav_order: 7
   {% for person in site.data.people %}
   <div class="row mb-4">
     <div class="col-md-3">
-      <img src="/assets/img/" class="img-fluid rounded" alt="{{ person.name }}">
+      <img src="/assets/img/people/current/{{ person.image }}" class="img-fluid rounded" alt="{{ person.name }}">
     </div>
     <div class="col-md-9">
       <h3>{{ person.name }}</h3>
