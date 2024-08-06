@@ -18,7 +18,7 @@ We develop software workflows and advanced multimaterial 3D printing capabilitie
     <a href = "https://app.jove.com/v/63214/voxel-printing-anatomy-design-and-fabrication-of-realistic-presurgical-planning-models-through-bitmap-printing">Voxel Printing Anatomy: Design and Fabrication of Realistic, Presurgical Planning Models through Bitmap Printing</a>
     </div>
     <div style="flex: 1; margin-left: auto;">
-        <img src="/assets/img/prof_pic.jpg" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
+        <img src="/assets/img/presurgical-planning-models/ppm1.jpg" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
     </div>
 </div>
 <br/><br/>

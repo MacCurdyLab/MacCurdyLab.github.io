@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
         As coronavirus disease 2019 rapidly spread across the globe many hospitals lacked the necessary supplies to treat all of the incoming cases. The virus proved to be deadly and to address the large number of cases rapid prototyping and manufacturing was implemented. UCHealth Memorial Hospital approached the robotics laboratory in the mechanical engineering department of the University of Colorado Boulder to rapidly design a bag valve mask compressor in anticipation of a shortage of incubators on the projected peak case day of April 17th. A collaboration between the Matter Assembly through Computation (MAC) lab, the Advanced Medical Technologies Lab (AMTL), and the Bio-Inspired Perception and Robotics Lab (BPRL) produced two prototypes for the hospital to pass through their IRB. One of these designs was a digitally controlled compression device.
     </div>
     <div style="flex: 1; margin-left: auto;">
-        <img src="/assets/img/prof_pic.jpg" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
+        <img src="/assets/img/other/o1.jpg" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
     </div>
 </div>
 <br/><br/>

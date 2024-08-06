@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
         Learn more about our work in lowering barriers to soft actuator design through creation of novel design tools that allow for interactive GUI-based specification of geometry and material distribution, one-click design evaluation via FEA simulation, and automated generation of design files.
     </div>
     <div style="flex: 1; margin-left: auto;">
-        <img src="/assets/img/prof_pic.jpg" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
+        <img src="/assets/img/numerical-simulation/ns1.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
     </div>
 </div>
 <br/><br/>
@@ -29,7 +29,7 @@ social: true # includes social icons at the bottom of the page
         Learn why we leverage not only traditional volumetric finite element simulations, but also simulations over dimensionally reduced shell finite elements.
     </div>
     <div style="flex: 1; margin-left: auto;">
-        <img src="/assets/img/prof_pic.jpg" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
+        <img src="/assets/img/numerical-simulation/ns2.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
     </div>
 </div>
 <br/><br/>
@@ -42,7 +42,7 @@ social: true # includes social icons at the bottom of the page
         Simulating soft robots is a challenging task, made even more difficult by the geometric complexity of the robots we fabricate. We employ finite element and material point methods to efficiently simulate soft robots, which enables our automated design algorithms to efficiently explore a vast and rugged design space and discover novel soft robot designs.
     </div>
     <div style="flex: 1; margin-left: auto;">
-        <img src="/assets/img/prof_pic.jpg" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
+        <img src="/assets/img/numerical-simulation/ns3.gif" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
     </div>
 </div>
 <br/><br/>

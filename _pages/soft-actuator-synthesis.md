@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 Learn more about our work in lowering barriers to soft actuator design through creation of novel design tools that allow for interactive GUI-based specification of geometry and material distribution, one-click design evaluation via FEA simulation, and automated generation of design files.
     </div>
     <div style="flex: 1; margin-left: auto;">
-        <img src="/assets/img/prof_pic.jpg" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
+        <img src="/assets/img/soft-actuator-synthesis/sas1.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
     </div>
 </div>
 <br/><br/>
@@ -30,7 +30,7 @@ Learn more about our work in lowering barriers to soft actuator design through c
         Explore our work in automatically synthesizing pneumatic bending soft actuators which are simultaneously compliant and forceful. The designs automatically discovered by our method are easily fabricated by 3D printing, and we compare their performance to published results in simulation and by experimentation.
     </div>
     <div style="flex: 1; margin-left: auto;">
-        <img src="/assets/img/prof_pic.jpg" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
+        <img src="/assets/img/soft-actuator-synthesis/sas2.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
     </div>
 </div>
 <br/><br/>
