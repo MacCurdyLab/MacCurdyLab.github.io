@@ -1,0 +1,69 @@
+- name: Travis Hainsworth
+  position: PhD Student and Teaching Professor at Western Colorado University
+  image: a1.jpg
+  description: Travis used additive manufacturing to develop process that can create more complex soft robots. Through the use of additive manufacturing, designs and geometries that would be near impossible to create with conventional manufacturing methods are now easy to make. He is completing a PhD and he earned his M.S and B.S. in Mechanical Engineering from the University of Utah. There he studied how emotive gaits could be applied to a quadrupedal robot. He is now a teaching professor at Western Colorado University.
+
+- name: Aaditya Pore
+  position: Undergraduate Research Assistant
+  image: a2.jpg
+  description: Aaditya is a second-year undergraduate student studying Aerospace Engineering at CU Boulder. Under the guidance of Lawrence and Dr. MacCurdy through the CU SPUR program, he is working on a test bench that will be able to test pneumatic actuators. Working with MATLAB and FDM manufacturing, his goal is to establish a test bench that can provide metrics of feedback including force exerted, pressure, resistance, flow rate, and bend angles, for actuators. Outside of the MacLab, Aadi is involved in the University of Colorado Student Government, currently serving as the Legislative Council President, and is a 3D Printing Student Assistant for the ATLAS Institute.
+
+
+- name: Ashton Croft
+  position: Undergraduate Research Assistant
+  image: a3.jpg
+  description: Ashton is a third year undergraduate Aerospace Engineering student at the University of Colorado Boulder. His work is on investigating thermal inkjet resistors and their applications as microfluidic pumps and mixers for use in future lab-on-a-chip devices. Outside the lab, Ashton loves hiking, skiing, and driving classic cars.
+
+
+- name: Wangcong Xuan
+  position: Undergraduate Research Assistant
+  image: a4.jpg
+  description: I’m a Computer Science and Data Science undergraduate student at CU Boulder. I was working on the server construction, DNS and software deployment. It’s really nice to have the chance work in MaC Lab. I had a wonderful time working with Lawrence, Lev in the lab. We are responsible for website construction and software deployment together. During this period, Lawrence taught me a lot of MATLAB skills and I also learned a considerable part of the front-end and back-end technologies from the actual programming experience.
+
+
+- name: Marcus Tsuei
+  position: Undergraduate Research Assistant
+  image: a5.jpg
+  description: Marcus is a visiting undergraduate studying Mechanical Engineering and Applied Mechanics at the University of Pennsylvania. His work at MACLAB consists of designing storage and recovery systems for 3D printing filament. Marcus enjoys looking into the intersections of cutting edge technologies and finding their applications in untraditional industries.
+
+- name: Lev Polonsky
+  position: Undergraduate Research Assistant
+  image: a6.png
+  description: Bio Under Development
+
+- name: James Alex Hale
+  position: Undergraduate Research Assistant
+  image: a7.jpg
+  description: Under the supervision and guidance of Dr. MacCurdy, Travis, and Lawrence, I worked with another undergrad to design, develop, create, assemble, and present a modular cyclic loading testing fixture. The fixture was to quantitatively assess lifespan and drive ongoing material and geometric optimization of multi-material additive-manufactured (MMAM) hydraulic bellows used in single-print soft material robotics. Performed design proposals and presentations, CAD design, mechanical assembly, electrical assembly, component creation and procurement, microprocessor coding, team collaboration. Continued but did not complete a similar modular test fixture for fatigue analysis of 3D-printed ball bearings.
+
+- name: Sebastian Alexander
+  position: Undergraduate Research Assistant
+  image: a8.jpg
+  description: Sebastian’s time in the MAC Lab was spent supporting Travis Hainsworth’s research and development of the print-in-place, self-sensing pneumatic actuators. This included gathering data from the integrated strain gauges, characterizing their behavior, and investigating alternative materials for use in the strain gauges. Working closely with the actuators and FDM machines that bring them to life sparked an interest in mechatronics, furthered by his senior project, classwork, and personal projects. Since graduating in May 2020, Sebastian has been working in commercial product design and development, and now works as a mechanical engineer at Roccor, a local company developing state of the art deployable space structures.
+
+- name: Lawson Nerenberg
+  position: Undergraduate Research Assistant
+  image: a9.jpg
+  description: Lawson is currently a Mechanical Engineering and Computer Science undergrad student at CU Boulder. He utilizes experience in machine learning to research novel methods for generative design, and works towards involvement in hybrid material robotic control and design.
+
+- name: Xavier Bell
+  position: High School Research Assistant
+  image: a10.jpg
+  description: I have always been fascinated with how things worked. Whether it was the inner workings of a pen, or what made the wind blow, I wanted to learn about it. I now am most intrigued by 3D printing and aerospace engineering. My ideal world is one in which we can use both fields of engineering harmoniously. Xavier has moved on to pursue his engineering goals at MIT.
+
+- name: Brady Kopec
+  position: Undergraduate Research Assistant
+  image: a11.jpg
+  description: Brady is currently a second year undergraduate student of Aerospace Engineering at the University of Colorado, Boulder. He is excited to work with the MacCurdy Lab team in order to develop voxelization software. He looks forward to learning from his team and developing his skills as a researcher and engineer.
+
+
+- name: Zach Jordan
+  position: Master's Student
+  image: a12.jpg
+  description: Zach is a lover of learning, who likes working in a multidisciplinary environment with the challenge of solving new and unknown problems.  He is especially interested in using novel 3D printing methods for robotics fabrication.  Outside of engineering, he loves the outdoors and extreme mountain sports and is a volunteer first responder/rescue technician for Boulder County.
+
+
+- name: Sean Connelly
+  position: Master's Student
+  image: a13.jpg
+  description: Sean graduated with a Master's in Mechanical Engineering at the University of Colorado - Boulder.  He worked on designing a verification software for volumetric modeling using voxels and is interested in design automation processes.  Today, Sean is a Mechanical Design Engineer at Boulder Engineer Studio working in consultant design for everything from consumer products to industrial applications.
