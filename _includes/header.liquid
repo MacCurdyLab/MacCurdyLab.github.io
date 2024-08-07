@@ -55,16 +55,6 @@
               <i class="fab fa-github"></i>
             </a>
           </li>
-          {% if site.enable_darkmode %}
-          <!-- Toggle theme mode -->
-          <li class="nav-item toggle-container">
-            <button id="light-toggle" title="Change theme">
-              <i class="ti ti-sun-moon" id="light-toggle-system"></i>
-              <i class="ti ti-moon-filled" id="light-toggle-dark"></i>
-              <i class="ti ti-sun-filled" id="light-toggle-light"></i>
-            </button>
-          </li>
-          {% endif %}
         </ul>
       </div>
     </div>
@@ -79,13 +69,3 @@
   {% endif %}
 </header>
 
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const darkModeEnabled = /* logic to determine if dark mode is enabled */;
-    if (darkModeEnabled) {
-      document.body.classList.add('dark-mode');
-    } else {
-      document.body.classList.remove('dark-mode');
-    }
-  });
-</script>
