@@ -10,7 +10,7 @@ social: true # includes social icons at the bottom of the page
 
 <div style="display: flex;">
   <div style="width: 50%; padding-right: 20px;">
-    {% capture contact_info %}
+   
     University of Colorado  
     Dept of Mechanical Engineering  
     1111 Engineering Drive  
@@ -18,8 +18,6 @@ social: true # includes social icons at the bottom of the page
     Boulder, CO 80309-0427  
 
     Email: maccurdy@colorado.edu
-    {% endcapture %}
-    {{ contact_info | markdownify }}
   </div>
   <div style="width: 50%;">
 
