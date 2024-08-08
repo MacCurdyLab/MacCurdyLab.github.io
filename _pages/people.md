@@ -47,6 +47,7 @@ nav_order: 7
   {% endfor %}
 
 
+<!-- Alumni Section -->
     <h2>Alumni</h2>
   {% for alumni in site.data.alumni %}
   <div class="row mb-4">
