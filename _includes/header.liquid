@@ -5,7 +5,7 @@
       <!-- Logo and Title -->
       <a class="navbar-brand" href="{{ site.baseurl }}/">
         <img src="{{ site.baseurl }}/assets/img/Maclab-full-nobg.png" alt="Mac Lab logo" class="navbar-logo">
-        </a>
+      </a>
       
       <!-- Navbar Toggle -->
       <button
@@ -55,6 +55,15 @@
               <i class="fab fa-github"></i>
             </a>
           </li>
+          <!-- Dark Mode Toggle Button -->
+          <li class="nav-item">
+            <div class="dark-mode-toggle">
+              <label class="switch">
+                <input type="checkbox" id="darkModeToggle">
+                <span class="slider round"></span>
+              </label>
+            </div>
+          </li>
         </ul>
       </div>
     </div>
@@ -69,3 +78,16 @@
   {% endif %}
 </header>
 
+<!-- Script for Dark Mode Toggle -->
+<script>
+  const darkModeToggle = document.getElementById('darkModeToggle');
+  const body = document.body;
+
+  darkModeToggle.addEventListener('change', () => {
+    if (darkModeToggle.checked) {
+      body.classList.add('dark-mode');
+    } else {
+      body.classList.remove('dark-mode');
+    }
+  });
+</script>
