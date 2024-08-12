@@ -29,22 +29,6 @@ social: true # includes social icons at the bottom of the page
       </a>
     </div>
     <div class="col-md-4 mb-4">
-      <a href="/numerical-simulation" class="card">
-        <img src="/assets/img/numerical-simulation/ns1.png" class="card-img-top" alt="Numerical Simulation" style = "height: 337px;">
-        <div class="card-body">
-          <h5 class="card-title">Numerical Simulation</h5>
-        </div>
-      </a>
-    </div>
-    <div class="col-md-4 mb-4">
-      <a href="/soft-actuator-synthesis" class="card">
-        <img src="/assets/img/soft-actuator-synthesis/sas1.png" class="card-img-top" alt="Soft Actuator Synthesis" style = "height: 337px;">
-        <div class="card-body">
-          <h5 class="card-title">Soft Actuator Synthesis</h5>
-        </div>
-      </a>
-    </div>
-    <div class="col-md-4 mb-4">
       <a href="/3d-printable-materials" class="card">
           <img src="/assets/img/3d-printable-materials/3d1.png" class="card-img-top" alt="3D Printable Materials">
         <div class="card-body">
