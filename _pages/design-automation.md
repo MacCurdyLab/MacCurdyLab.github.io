@@ -17,6 +17,13 @@ Additionally, we discover novel soft robot designs through automated, algorithm-
 <div style="display: flex;">
     <div style="flex: 2;padding-right: 30px;">
         Designing modular robots that employ heterogeneous modules aligned with a grid can be accomplished via search over the occupancy matrix that specifies the module type in each grid cell. A generative encoding (NEAT) creates a network that yields the module type in each cell when queried with the cell's grid position. Each individual (simulated) robot created in this way participates in an evolutionary competition to pass on parts of its generative encoding to the next generation, with faster individuals more likely to pass on their genes. This approach allows the high-dimensional design space to be explored and yields many qualitatively unique solutions that all move quickly - an approach that aids design discovery.
+        <br>
+        Read the paper in journal <a href = "https://dl.acm.org/doi/abs/10.1145/2661735.2661737?casa_token=cqdW2UCil-IAAAAA:E0xyvPfPnPMNlzLgw4cgPY8x_AP6InnaFRBBwuCWClNj92YRvplx9vbZsINVxOEUYJ6EbDrh75dk1g">here.</a>
+        <br>
+        Access the pdf <a href = "assets/pdf/2014_Cheney-Unshackling_evolution-_evolving_soft_robots_ACMSIGEVOlution.pdf">here.</a>
+        <br>
+        Watch the video <a href = "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dz9ptOeByLA4&data=05%7C02%7CMonica.Gullapalli%40colorado.edu%7Ca973b22b311b45c4956608dcbb21cf6d%7C3ded8b1b070d462982e4c0b019f46057%7C1%7C0%7C638591001081180684%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=QBkxsfhH4SG7s93bssxlxM8rvbwvzSn%2Bj3ZEP5%2Brpgs%3D&reserved=0">here. </a>
+        <br>
     </div>
     <div style="flex: 1; margin-left: auto;">
         <img src="/assets/img/design-automation/da1.gif" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
