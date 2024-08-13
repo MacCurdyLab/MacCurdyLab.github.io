@@ -20,7 +20,8 @@ Additionally, we discover novel soft robot designs through automated, algorithm-
         <br>
         Read the paper in journal <a href = "https://dl.acm.org/doi/abs/10.1145/2661735.2661737?casa_token=cqdW2UCil-IAAAAA:E0xyvPfPnPMNlzLgw4cgPY8x_AP6InnaFRBBwuCWClNj92YRvplx9vbZsINVxOEUYJ6EbDrh75dk1g">here.</a>
         <br>
-        Access the pdf <a href = "assets/pdf/2014_Cheney-Unshackling_evolution-_evolving_soft_robots_ACMSIGEVOlution.pdf">here.</a>
+        Access the pdf 
+        <a href = "/assets/pdf/2014_Cheney-Unshackling_evolution-_evolving_soft_robots_ACMSIGEVOlution.pdf">here.</a>
         <br>
         Watch the video <a href = "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dz9ptOeByLA4&data=05%7C02%7CMonica.Gullapalli%40colorado.edu%7Ca973b22b311b45c4956608dcbb21cf6d%7C3ded8b1b070d462982e4c0b019f46057%7C1%7C0%7C638591001081180684%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=QBkxsfhH4SG7s93bssxlxM8rvbwvzSn%2Bj3ZEP5%2Brpgs%3D&reserved=0">here. </a>
         <br>
