@@ -46,7 +46,7 @@ social: true # includes social icons at the bottom of the page
     </div>
     <div class="col-md-4 mb-4">
       <a href="/microfluidics" class="card">
-        <img src="/assets/img/7.jpg" class="card-img-top" alt="Microfluidics" style = "height: 337px;">
+        <img src="/assets/img/carousel/2.jpg" class="card-img-top" alt="Microfluidics" style = "height: 337px;">
         <div class="card-body">
           <h5 class="card-title">Microfluidics</h5>
         </div>
