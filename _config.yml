@@ -192,7 +192,7 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /:collection/:title/
+    permalink: /_pages/news.md
   projects:
     output: true
     permalink: /:collection/:title/
