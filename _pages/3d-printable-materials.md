@@ -13,32 +13,31 @@ The 3D Printable Materials research area is focused on developing new materials 
 
 <br/><br/>
 
-### Metamaterial Design and Fabrication
+<div class="row">
+    <div class="col-md-8">
+<h3> Metamaterial Design and Fabrication
 
-
-<div style="display: flex;">
-    <div style="flex: 2;padding-right: 30px;">
+</h3>
         The Greek roots of metamaterial - beyond matter - convey the promise of ongoing research into this new branch of material science. Through advanced additive manufacturing techniques, we create metamaterials with controlled microstructures that drive macro-scale mechanical properties not found in natural materials.
         <br/><br/>
         We create software tools to precisely specify the design of a metamaterial at the length scale of tens of microns. Applications of these materials are wide and not fully explored. 
         <br/><br/>
         Our software pipeline enables the fabrication of materials with strongly anisotropic damping properties, tunable elastic and viscoelastic properties, locally varying stiffness and buckling responses, and dynamically adjustable stiffness. 
     </div>
-    <div style="flex: 1; margin-left: auto;">
+    <div class="col-md-4">
         <img src="/assets/img/3d-printable-materials/3d1.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
     </div>
 </div>
 <br/><br/>
 
+<div class="row">
+    <div class="col-md-8">
+<h3> Lattices with Dynamically Alterable Stiffness Properties
 
-### Lattices with Dynamically Alterable Stiffness Properties
-
-
-<div style="display: flex;">
-    <div style="flex: 2;padding-right: 30px;">
+</h3>
         Dynamically adjustable material properties are an interesting field of research and additive manufacturing allows for rapid development of metamaterials that exhibit interesting properties. One such example is that with 3D printing we can make hollow lattice structures that can be stiffened by inflating the lattice tubes.
     </div>
-    <div style="flex: 1; margin-left: auto;">
+    <div class="col-md-4">
         <img src="/assets/img/3d-printable-materials/3d2.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
     </div>
 </div>
