@@ -98,7 +98,6 @@ This research earned the <a href = "https://case2021.sciencesconf.org/resource/p
 </style>
 <br>
 
-
 <div class="row">
-        <embed src="/assets/pdf/2021_Smith_Seamless_Acuator_Synthesis_CASE_2021.pdf" type="application/pdf" width="100%" height="600px" />
+    <embed src="/assets/pdf/2021_Smith_Seamless_Acuator_Synthesis_CASE_2021.pdf" type="application/pdf" width="100%" height="600px" />
 </div>
