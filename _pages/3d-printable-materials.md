@@ -25,7 +25,7 @@ The 3D Printable Materials research area is focused on developing new materials 
         Our software pipeline enables the fabrication of materials with strongly anisotropic damping properties, tunable elastic and viscoelastic properties, locally varying stiffness and buckling responses, and dynamically adjustable stiffness. 
     </div>
     <div class="col-md-4">
-        <img src="/assets/img/3d-printable-materials/3d1.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
+        <img src="/assets/img/3d-printable-materials/3d1.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: contain;">
     </div>
 </div>
 <br/><br/>
@@ -38,7 +38,7 @@ The 3D Printable Materials research area is focused on developing new materials 
         Dynamically adjustable material properties are an interesting field of research and additive manufacturing allows for rapid development of metamaterials that exhibit interesting properties. One such example is that with 3D printing we can make hollow lattice structures that can be stiffened by inflating the lattice tubes.
     </div>
     <div class="col-md-4">
-        <img src="/assets/img/3d-printable-materials/3d2.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
+        <img src="/assets/img/3d-printable-materials/3d2.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: contain;">
     </div>
 </div>
 <br/><br/>

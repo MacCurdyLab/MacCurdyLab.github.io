@@ -26,7 +26,7 @@ Designing modular robots that employ heterogeneous modules aligned with a grid c
         <br>
     </div>
     <div class="col-md-4">
-        <img src="/assets/img/design-automation/da1.gif" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
+        <img src="/assets/img/design-automation/da1.gif" alt="Image Description" style="width: 300px; height: 300px; object-fit: contain;">
     </div>
 </div>
 
@@ -40,7 +40,7 @@ Designing modular robots that employ heterogeneous modules aligned with a grid c
 Learn more about our work in lowering barriers to soft actuator design through creation of novel design tools that allow for interactive GUI-based specification of geometry and material distribution, one-click design evaluation via FEA simulation, and automated generation of design files.
     </div>
     <div class="col-md-4">
-        <img src="/assets/img/soft-actuator-synthesis/sas1.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
+        <img src="/assets/img/soft-actuator-synthesis/sas1.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: contain;">
     </div>
 </div>
 <br/><br/>
@@ -52,7 +52,7 @@ Learn more about our work in lowering barriers to soft actuator design through c
         Explore our work in automatically synthesizing pneumatic bending soft actuators which are simultaneously compliant and forceful. The designs automatically discovered by our method are easily fabricated by 3D printing, and we compare their performance to published results in simulation and by experimentation.
     </div>
     <div class="col-md-4">
-        <img src="/assets/img/soft-actuator-synthesis/sas2.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
+        <img src="/assets/img/soft-actuator-synthesis/sas2.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: contain;">
     </div>
 </div>
 <br/><br/>
@@ -64,7 +64,7 @@ Learn more about our work in lowering barriers to soft actuator design through c
 Learn more about our work in lowering barriers to soft actuator design through creation of novel design tools that allow for interactive GUI-based specification of geometry and material distribution, one-click design evaluation via FEA simulation, and automated generation of design files.
     </div>
     <div class="col-md-4">
-        <img src="/assets/img/numerical-simulation/ns1.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
+        <img src="/assets/img/numerical-simulation/ns1.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: contain;">
     </div>
 </div>
 <br/><br/>
@@ -77,7 +77,7 @@ Learn more about our work in lowering barriers to soft actuator design through c
 Learn why we leverage not only traditional volumetric finite element simulations, but also simulations over dimensionally reduced shell finite elements.
     </div>
     <div class="col-md-4">
-        <img src="/assets/img/numerical-simulation/ns2.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
+        <img src="/assets/img/numerical-simulation/ns2.png" alt="Image Description" style="width: 300px; height: 300px; object-fit: contain;">
     </div>
 </div>
 <br/><br/>
@@ -91,7 +91,7 @@ We apply automated design techniques to soft robots made from rigid plastics, so
         Simulating soft robots is a challenging task, made even more difficult by the geometric complexity of the robots we fabricate. We employ finite element and material point methods to efficiently simulate soft robots, which enables our automated design algorithms to efficiently explore a vast and rugged design space and discover novel soft robot designs.
     </div>
     <div class="col-md-4">
-        <img src="/assets/img/numerical-simulation/ns3.gif" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
+        <img src="/assets/img/numerical-simulation/ns3.gif" alt="Image Description" style="width: 300px; height: 300px; object-fit: contain;">
     </div>
 </div>
 <br/><br/>
