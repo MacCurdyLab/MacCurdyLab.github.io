@@ -17,8 +17,8 @@ We build functional objects from multiple materials using state of the art addit
 <h3> 3D Printed Microfluidics </h3>
 We explore 3D printing of microfluidics to enable customizability, multi-material, and rapid prototyping. The ability to 3D print microfluidics allows realization of fully 3D channel geometries and structures previously infeasible through conventional 2.5D soft lithography approaches.
         <br/><br/>
-        Liquid-Solid Co-Printing (printing with liquids and solids)
-        Liquid-solid co-printing of multi-material 3D fluidic devices via material jetting.
+        <a href = "/liquid-solid">Liquid-Solid Co-Printing (printing with liquids and solids)
+        Liquid-solid co-printing of multi-material 3D fluidic devices via material jetting.</a>
     </div>
     <div class="col-md-4">
         <img src="/assets/img/fabrication-automation/fa1.gif" alt="Image Description" style="width: 300px; height: 300px; object-fit: cover;">
@@ -29,8 +29,9 @@ We explore 3D printing of microfluidics to enable customizability, multi-materia
 
 <div class="row">
     <div class="col-md-8">
-<h3> A Fabrication Free, 3D Printed, Multi-Material, Self-Sensing Soft Actuator</h3>
-        Here we present an actuator with an integrated print-in-place strain sensor which is produced entirely via multi-material additive manufacturing and requires no post processing or manual fabrication steps. Automatically manufacturing these sensor-actuator systems enables more complex, capable, and integrate-able designs, because the labor of assembly is eliminated; actuator-sensor designs that would be tedious or impossible to manufacture become tractable with our approach.
+<a href = "/fabrication-free"><h3> A Fabrication Free, 3D Printed, Multi-Material, Self-Sensing Soft Actuator</h3></a>
+
+Here we present an actuator with an integrated print-in-place strain sensor which is produced entirely via multi-material additive manufacturing and requires no post processing or manual fabrication steps. Automatically manufacturing these sensor-actuator systems enables more complex, capable, and integrate-able designs, because the labor of assembly is eliminated; actuator-sensor designs that would be tedious or impossible to manufacture become tractable with our approach.
         <br/><br/>
         See more details here, or see the whole paper <a href ="https://41310ed7-1a60-489f-888a-1aa520d0c9ca.filesusr.com/ugd/39a42a_fab92126ddce474db9dccb2fd3c7c302.pdf"> here</a>.
     </div>

@@ -35,7 +35,7 @@ Designing modular robots that employ heterogeneous modules aligned with a grid c
 
 <div class="row">
     <div class="col-md-8">
-<h3> A Seamless Workflow for the Design and Fabrication of Multimaterial Soft Actuators</h3>
+<a href = "/seamless-workflow"><h3> A Seamless Workflow for the Design and Fabrication of Multimaterial Soft Actuators</h3></a>
 
 Learn more about our work in lowering barriers to soft actuator design through creation of novel design tools that allow for interactive GUI-based specification of geometry and material distribution, one-click design evaluation via FEA simulation, and automated generation of design files.
     </div>
@@ -48,7 +48,7 @@ Learn more about our work in lowering barriers to soft actuator design through c
 
 <div class="row">
     <div class="col-md-8">
-<h3>Automated Synthesis of Pneumatic Bending Soft Actuators</h3>
+<a href = "/automated-synthesis"><h3>Automated Synthesis of Pneumatic Bending Soft Actuators</h3></a>
         Explore our work in automatically synthesizing pneumatic bending soft actuators which are simultaneously compliant and forceful. The designs automatically discovered by our method are easily fabricated by 3D printing, and we compare their performance to published results in simulation and by experimentation.
     </div>
     <div class="col-md-4">
@@ -73,7 +73,7 @@ Learn more about our work in lowering barriers to soft actuator design through c
 
 <div class="row">
     <div class="col-md-8">
-<h3>Shell Finite Elements for Soft Actuator Simulation</h3>
+<a href = "/shell-finite"><h3>Shell Finite Elements for Soft Actuator Simulation</h3></a>
 Learn why we leverage not only traditional volumetric finite element simulations, but also simulations over dimensionally reduced shell finite elements.
     </div>
     <div class="col-md-4">
