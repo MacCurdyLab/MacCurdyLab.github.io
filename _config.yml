@@ -191,6 +191,7 @@ collections:
   news:
     defaults:
       layout: post
+      enable_darkmode: false
     output: true
     permalink: /_pages/news.md
   projects:
